@@ -6,12 +6,17 @@
 
 **程序界面如图所示：**
 
-<img src="C:\Users\Lernbarch\AppData\Roaming\Typora\typora-user-images\image-20201214114806616.png" alt="image-20201214114806616" style="zoom:50%;" />
+<img src="\images\image1.png" alt="image-20201214114806616" style="zoom:50%;" />
+
+
 
 **首先选择要遍历的点：**默认第一个选择的点为起点
 
-<img src="C:\Users\Lernbarch\AppData\Roaming\Typora\typora-user-images\image-20201214114935195.png" alt="image-20201214114935195" style="zoom:50%;" />
+<img src="\images\image2.png" alt="image-20201214114935195" style="zoom:50%;" />
+
+
 
 **点击开始计算，打印计算结果：**
 
-<img src="C:\Users\Lernbarch\AppData\Roaming\Typora\typora-user-images\image-20201214115026417.png" alt="image-20201214115026417" style="zoom:50%;" />
+<img src="\images\image3.png" alt="image-20201214115026417" style="zoom:50%;" />
+
